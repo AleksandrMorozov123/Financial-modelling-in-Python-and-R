@@ -1,2 +1,2 @@
-# Financial-modelling-in-R
-# Financial modelling with R language
+# Financial modelling in Python and R
+# Financial modelling with Python and R language
